@@ -201,7 +201,7 @@ function PlasmicHomepage__RenderFunc(props: {
                   sty.link__be579
                 )}
                 component={Link}
-                href={"https://t.me/+eVlvddzL6YQ0NjRl"}
+                href={"https://t.me/pinkpussysol"}
                 platform={"nextjs"}
                 target={"_blank"}
               >
