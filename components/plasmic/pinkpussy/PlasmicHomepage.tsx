@@ -185,7 +185,9 @@ function PlasmicHomepage__RenderFunc(props: {
                   sty.link__oOxhb
                 )}
                 component={Link}
+                href={"https://Twitter.com/pinkpussysol"}
                 platform={"nextjs"}
+                target={"_blank"}
               >
                 <TwitterRoundsvgIcon
                   className={classNames(projectcss.all, sty.svg__cPtfy)}
