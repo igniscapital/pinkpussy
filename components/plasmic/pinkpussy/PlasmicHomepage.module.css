@@ -102,7 +102,7 @@
   grid-row-gap: 24px;
   align-content: center;
   justify-items: center;
-  background: #ff69b4;
+  background: #ffc0cb;
   grid-column-start: 1 !important;
   grid-column-end: -1 !important;
   grid-template-columns:
@@ -133,7 +133,7 @@
   height: auto;
   margin-bottom: 32px;
   text-align: center;
-  color: #ffffff;
+  color: #010101;
   min-width: 0;
 }
 .columns {
@@ -205,7 +205,7 @@
   max-width: 100%;
   justify-content: flex-start;
   align-items: center;
-  background: linear-gradient(0deg, #ffb6c1 0%, #ffffffad 100%), #ffb6c1;
+  background: #ff69b4;
   min-width: 0;
   border-radius: 24px;
   padding: 24px;
@@ -228,7 +228,7 @@
   height: auto;
   max-width: 100%;
   text-align: center;
-  color: #000000;
+  color: #ffffff;
   font-weight: 400;
   min-width: 0;
 }
@@ -249,6 +249,7 @@
   width: 100%;
   height: auto;
   max-width: 100%;
+  color: #ffffff;
   min-width: 0;
 }
 .h4__wolsd {
@@ -256,6 +257,7 @@
   width: 100%;
   height: auto;
   max-width: 100%;
+  color: #ffffff;
   min-width: 0;
 }
 @media (min-width: 0px) and (max-width: 768px) {
@@ -280,6 +282,7 @@
   width: 100%;
   height: auto;
   max-width: 100%;
+  color: #ffffff;
   min-width: 0;
 }
 .h4__itOv7 {
@@ -287,6 +290,7 @@
   width: 100%;
   height: auto;
   max-width: 100%;
+  color: #ffffff;
   min-width: 0;
 }
 @media (min-width: 0px) and (max-width: 768px) {
@@ -311,6 +315,7 @@
   width: 100%;
   height: auto;
   max-width: 100%;
+  color: #ffffff;
   min-width: 0;
 }
 .h4__lbpvh {
@@ -318,6 +323,7 @@
   width: 100%;
   height: auto;
   max-width: 100%;
+  color: #ffffff;
   min-width: 0;
 }
 @media (min-width: 0px) and (max-width: 768px) {
@@ -342,6 +348,7 @@
   width: 100%;
   height: auto;
   max-width: 100%;
+  color: #ffffff;
   min-width: 0;
 }
 .h4__xsUxW {
@@ -349,6 +356,7 @@
   width: 100%;
   height: auto;
   max-width: 100%;
+  color: #ffffff;
   min-width: 0;
 }
 @media (min-width: 0px) and (max-width: 768px) {
@@ -373,6 +381,7 @@
   width: 100%;
   height: auto;
   max-width: 100%;
+  color: #ffffff;
   min-width: 0;
 }
 .h4__cFbte {
@@ -380,6 +389,7 @@
   width: 100%;
   height: auto;
   max-width: 100%;
+  color: #ffffff;
   min-width: 0;
 }
 @media (min-width: 0px) and (max-width: 768px) {
@@ -404,6 +414,7 @@
   width: 100%;
   height: auto;
   max-width: 100%;
+  color: #ffffff;
   min-width: 0;
 }
 .h4__eIUk {
@@ -411,6 +422,7 @@
   width: 100%;
   height: auto;
   max-width: 100%;
+  color: #ffffff;
   min-width: 0;
 }
 @media (min-width: 0px) and (max-width: 768px) {
@@ -424,7 +436,7 @@
   height: auto;
   margin-bottom: 32px;
   text-align: center;
-  color: #ffffff;
+  color: #000000;
   font-weight: 400;
   min-width: 0;
 }
