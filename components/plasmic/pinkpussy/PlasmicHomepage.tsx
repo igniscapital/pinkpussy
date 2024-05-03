@@ -201,7 +201,9 @@ function PlasmicHomepage__RenderFunc(props: {
                   sty.link__be579
                 )}
                 component={Link}
+                href={"https://t.me/+eVlvddzL6YQ0NjRl"}
                 platform={"nextjs"}
+                target={"_blank"}
               >
                 <TelegramFillSvgrepoComsvgIcon
                   className={classNames(projectcss.all, sty.svg__aT4Ga)}
