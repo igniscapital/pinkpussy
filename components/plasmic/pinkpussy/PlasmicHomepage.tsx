@@ -288,7 +288,7 @@ function PlasmicHomepage__RenderFunc(props: {
                       sty.h4__wolsd
                     )}
                   >
-                    {"69,000,000,000"}
+                    {"1,000,000,000"}
                   </h4>
                 </div>
                 <div className={classNames(projectcss.all, sty.freeBox__tGNiu)}>
@@ -385,7 +385,7 @@ function PlasmicHomepage__RenderFunc(props: {
                       sty.text__v4GIe
                     )}
                   >
-                    {"CA"}
+                    {"Pump.fun"}
                   </div>
                   <h4
                     className={classNames(
