@@ -387,16 +387,21 @@ function PlasmicHomepage__RenderFunc(props: {
                   >
                     {"Pump.fun"}
                   </div>
-                  <h4
+                  <PlasmicLink__
                     className={classNames(
                       projectcss.all,
-                      projectcss.h4,
+                      projectcss.a,
                       projectcss.__wab_text,
-                      sty.h4__eIUk
+                      sty.link__eIUk
                     )}
+                    component={Link}
+                    href={
+                      "https://pump.fun/FhQv1Wmahp4eEDZWKXm5y5XCWGaLRCigJydtMdiVdBi2"
+                    }
+                    platform={"nextjs"}
                   >
-                    {"-"}
-                  </h4>
+                    {"pump.fun"}
+                  </PlasmicLink__>
                 </div>
               </div>
             </div>
